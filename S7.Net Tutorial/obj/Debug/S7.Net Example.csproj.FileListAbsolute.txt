@@ -1,0 +1,116 @@
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.pdb
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormAbout.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormMain.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMCOLLECTION.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMMAIN.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.Properties.Resources.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.GenerateResource.Cache
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csprojResolveAssemblyReference.cache
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormAbout.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormMain.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMCOLLECTION.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMMAIN.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.Properties.Resources.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.GenerateResource.Cache
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.TrustInfo.xml
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe.manifest
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.application
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe.manifest
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\simens step7\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.application
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe.manifest
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.application
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csprojResolveAssemblyReference.cache
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormAbout.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormMain.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMCOLLECTION.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMMAIN.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.Properties.Resources.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.GenerateResource.Cache
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.TrustInfo.xml
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe.manifest
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.application
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe.manifest
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.application
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormMain.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMCOLLECTION.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMMAIN.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.Properties.Resources.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.GenerateResource.Cache
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.TrustInfo.xml
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe.manifest
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.application
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\TCP,UDP komunikacija\Primeri S7-C#\!!!S7.Net Tutotial!!! - Copy\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csprojResolveAssemblyReference.cache
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe.manifest
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.application
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.pdb
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormMain.resources
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMCOLLECTION.resources
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMMAIN.resources
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.Properties.Resources.resources
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.GenerateResource.cache
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.CoreCompileInputs.cache
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.TrustInfo.xml
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe.manifest
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.application
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\System.Threading.dll
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\System.Threading.xml
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.CopyComplete
+C:\Users\komodo\Downloads\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csprojAssemblyReference.cache
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe.manifest
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.application
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.pdb
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\System.Threading.dll
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\System.Threading.xml
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csprojAssemblyReference.cache
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormMain.resources
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMCOLLECTION.resources
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMMAIN.resources
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.Properties.Resources.resources
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.GenerateResource.cache
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.CoreCompileInputs.cache
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.TrustInfo.xml
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe.manifest
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.application
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.CopyComplete
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe.manifest
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.application
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.exe
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\PROFINET STEP 7.pdb
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\System.Threading.dll
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\bin\Debug\System.Threading.xml
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csprojAssemblyReference.cache
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FormMain.resources
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMCOLLECTION.resources
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.FRMMAIN.resources
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET_STEP_7.Properties.Resources.resources
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.GenerateResource.cache
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.CoreCompileInputs.cache
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.TrustInfo.xml
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe.manifest
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.application
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\S7.Net Example.csproj.CopyComplete
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+C:\Users\komodo\Documents\S7.NET\S7.Net Tutorial - original-otkljucana\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb

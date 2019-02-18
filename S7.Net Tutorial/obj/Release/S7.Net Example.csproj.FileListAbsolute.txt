@@ -1,0 +1,16 @@
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Release\PROFINET STEP 7.exe.manifest
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Release\PROFINET STEP 7.application
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Release\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\bin\Release\PROFINET STEP 7.pdb
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\S7.Net Example.csprojResolveAssemblyReference.cache
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET_STEP_7.FormAbout.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET_STEP_7.FormMain.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET_STEP_7.FRMCOLLECTION.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET_STEP_7.FRMMAIN.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET_STEP_7.Properties.Resources.resources
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\S7.Net Example.csproj.GenerateResource.Cache
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET STEP 7.TrustInfo.xml
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET STEP 7.exe.manifest
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET STEP 7.application
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET STEP 7.exe
+D:\RADNO\Baza\LITERATURA\SIEMENS PLC\Primeri S7-C#\!!!S7.Net Tutotial!!!\S7.Net Tutorial - original\S7.Net Tutorial\S7.Net Tutorial\obj\Release\PROFINET STEP 7.pdb

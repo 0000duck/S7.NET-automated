@@ -1,0 +1,13 @@
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\bin\Debug\PROFINET STEP 7.exe
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\bin\Debug\PROFINET STEP 7.pdb
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\S7.Net.csprojResolveAssemblyReference.cache
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\PROFINET_STEP_7.FormAbout.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\PROFINET_STEP_7.FormMain.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\PROFINET_STEP_7.FRMCOLLECTION.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\PROFINET_STEP_7.FRMMAIN.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\PROFINET_STEP_7.Properties.Resources.resources
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\S7.Net.csproj.GenerateResource.Cache
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\PROFINET STEP 7.exe
+C:\Users\HOANGLUU\Downloads\Compressed\S7NET\PROFINET STEP 7\obj\Debug\PROFINET STEP 7.pdb
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.exe
+C:\Users\HOANGLUU\Downloads\Compressed\S7.Net Tutorial\S7.Net Tutorial\obj\Debug\PROFINET STEP 7.pdb
